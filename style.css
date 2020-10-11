@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    padding: 0%;
+}
+.pivot_menu .pivot_button{
+    font-size: medium;
+    text-align: right;
+    color: #fcfcfc77;
+}
+.pivot_menu .pivot_title {
+    color: #fcfcfc;
+}
+.pivot_menu {
+    background-color: #fcfcfc2c;
+    width: 100vw;
+    border-radius: 0px;
+    z-index: 10;
+}
+.pivot_menu .pivot_button:hover {
+    background-color: rgba(128, 128, 128, 0.4);
+    color: #fcfcfc;
+}
+.cover {
+    background-image: url(./bg.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100vw;
+}
+.bottom-centre h2{
+    position: relative;
+    top: 70vh;
+    color: #fcfcfc;
+}
+.insta_posts{
+    width: 20vw;
+    height: 20vw;
+}
+.footer{
+    width: 100vw;
+    background-color: rgb(128, 128, 128);
+    font-size: small;
+}
+.contact_options{
+    font-size: 25px;
+    color: #fcfcfc;
+    padding: 8px 16px;
+}
+.social_icon{
+    height: 60px;
+}
